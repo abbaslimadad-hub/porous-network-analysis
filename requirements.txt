@@ -1,0 +1,5 @@
+numpy>=1.22
+scipy>=1.9
+scikit-image>=0.19
+networkx>=2.8
+matplotlib>=3.5

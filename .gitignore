@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+.ring_counter_progress.json
+Analysis_Results/
+.venv/
+venv/
+.DS_Store
